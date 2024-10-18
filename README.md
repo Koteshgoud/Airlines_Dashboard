@@ -1,5 +1,5 @@
 # Airlines_Dashboard
-![Airlines](https://github.com/Koteshgoud/Airlines_Dashboard/blob/main/Airlines_Dashboard.pbix)
+![Airlines](https://github.com/Koteshgoud/Airlines_Dashboard/blob/main/pexels-quintingellar-321159.jpg)
 
 ## Airlines Dashboard Project
 #### Overview
